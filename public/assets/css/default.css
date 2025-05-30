@@ -1,0 +1,12 @@
+:root {
+  --bg-image: ;
+  --bg: #0c6404;
+  --text: #fff;
+  --font: 'Questrial', Arial, Helvetica, sans-serif;
+  --text-secondary: ;
+  /* Element css */
+  --element-bg: #046b2a;
+  --border: #046b2a;
+  --border-h: #046b2a;
+  --border-radius: 17px;
+}
